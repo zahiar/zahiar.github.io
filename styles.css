@@ -1,0 +1,25 @@
+.bg-image {
+    background: url(bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.card {
+    position: absolute;
+    width: 300px;
+    height: 328px;
+    left: 50%;
+    top: 50%;
+    margin: -164px 0 0 -150px;
+}
+
+.card-img-top {
+    max-width: 50%;
+    margin: 5% 20%;
+}
+
+h1 {
+    font-family: 'Roboto Light', serif
+}
