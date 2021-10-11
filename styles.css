@@ -23,3 +23,7 @@
 h1 {
     font-family: 'Roboto Light', serif
 }
+
+.card-footer img {
+    width: 20px;
+}
